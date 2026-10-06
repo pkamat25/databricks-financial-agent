@@ -1,0 +1,289 @@
+business_unit,business_unit_name,kpi_id,kpi_category,kpi_name,month,fiscal_year,fiscal_month,scenario,value_aud,uom,variance_vs_budget
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Budget,615000,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Actual,622718,AUD,7718
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Forecast,622120,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Budget,475600,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Actual,477825,AUD,2225
+BU-N,Northern Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Forecast,468330,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Budget,139400,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Actual,135278,AUD,-4122
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Forecast,140262,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Budget,98400,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Actual,99509,AUD,1109
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Forecast,97675,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Budget,615000,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Actual,609918,AUD,-5082
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Forecast,606508,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Budget,475600,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Actual,479925,AUD,4325
+BU-N,Northern Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Forecast,470913,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Budget,139400,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Actual,142369,AUD,2969
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Forecast,138974,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Budget,98400,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Actual,97607,AUD,-793
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Forecast,97517,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Budget,615000,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Actual,621664,AUD,6664
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Forecast,621272,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Budget,475600,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Actual,473124,AUD,-2476
+BU-N,Northern Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Forecast,480999,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Budget,139400,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Actual,139253,AUD,-147
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Forecast,138676,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Budget,98400,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Actual,98724,AUD,324
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Forecast,97431,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Budget,615000,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Actual,607865,AUD,-7135
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Forecast,611171,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Budget,475600,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Actual,481464,AUD,5864
+BU-N,Northern Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Forecast,480086,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Budget,139400,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Actual,142369,AUD,2969
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Forecast,140288,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Budget,98400,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Actual,99863,AUD,1463
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Forecast,98190,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Budget,615000,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Actual,404530,AUD,-210470
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Forecast,606680,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Budget,475600,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Actual,467452,AUD,-8148
+BU-N,Northern Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Forecast,473708,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Budget,139400,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Actual,89732,AUD,-49668
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Forecast,139682,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Budget,98400,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Actual,64716,AUD,-33684
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Forecast,99214,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Budget,615000,AUD,
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Actual,602481,AUD,-12519
+BU-N,Northern Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Forecast,626428,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Budget,475600,AUD,
+BU-N,Northern Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Actual,461483,AUD,-14117
+BU-N,Northern Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Forecast,467821,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Budget,139400,AUD,
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Actual,136434,AUD,-2966
+BU-N,Northern Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Forecast,141775,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Budget,98400,AUD,
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Actual,98018,AUD,-382
+BU-N,Northern Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Forecast,96684,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Budget,772500,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Actual,759604,AUD,-12896
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Forecast,759523,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Budget,597400,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Actual,580831,AUD,-16569
+BU-S,Southern Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Forecast,594636,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Budget,175100,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Actual,180190,AUD,5090
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Forecast,175898,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Budget,123600,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Actual,123756,AUD,156
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Forecast,124646,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Budget,772500,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Actual,777018,AUD,4518
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Forecast,786273,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Budget,597400,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Actual,608878,AUD,11478
+BU-S,Southern Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Forecast,600752,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Budget,175100,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Actual,174459,AUD,-641
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Forecast,173011,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Budget,123600,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Actual,124763,AUD,1163
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Forecast,125103,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Budget,772500,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Actual,762581,AUD,-9919
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Forecast,758089,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Budget,597400,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Actual,600967,AUD,3567
+BU-S,Southern Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Forecast,597778,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Budget,175100,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Actual,172281,AUD,-2819
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Forecast,172785,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Budget,123600,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Actual,120159,AUD,-3441
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Forecast,122311,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Budget,772500,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Actual,749338,AUD,-23162
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Forecast,761915,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Budget,597400,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Actual,615208,AUD,17808
+BU-S,Southern Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Forecast,604083,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Budget,175100,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Actual,173557,AUD,-1543
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Forecast,174366,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Budget,123600,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Actual,124238,AUD,638
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Forecast,123688,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Budget,772500,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Actual,783481,AUD,10981
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Forecast,759170,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Budget,597400,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Actual,582710,AUD,-14690
+BU-S,Southern Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Forecast,592250,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Budget,175100,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Actual,178565,AUD,3465
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Forecast,178007,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Budget,123600,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Actual,122473,AUD,-1127
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Forecast,125890,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Budget,772500,AUD,
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Actual,762141,AUD,-10359
+BU-S,Southern Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Forecast,775787,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Budget,597400,AUD,
+BU-S,Southern Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Actual,586451,AUD,-10949
+BU-S,Southern Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Forecast,607668,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Budget,175100,AUD,
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Actual,175887,AUD,787
+BU-S,Southern Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Forecast,173427,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Budget,123600,AUD,
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Actual,122911,AUD,-689
+BU-S,Southern Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Forecast,121654,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Budget,735000,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Actual,716142,AUD,-18858
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Forecast,728951,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Budget,568400,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Actual,583645,AUD,15245
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Forecast,575288,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Budget,166600,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Actual,171165,AUD,4565
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Forecast,169106,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Budget,117600,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Actual,119810,AUD,2210
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Forecast,117952,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Budget,735000,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Actual,743564,AUD,8564
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Forecast,748702,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Budget,568400,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Actual,570554,AUD,2154
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Forecast,574538,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Budget,166600,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Actual,169174,AUD,2574
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Forecast,169674,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Budget,117600,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Actual,117310,AUD,-290
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Forecast,117415,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Budget,735000,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Actual,738829,AUD,3829
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Forecast,721104,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Budget,568400,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Actual,555313,AUD,-13087
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Forecast,558568,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Budget,166600,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Actual,167936,AUD,1336
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Forecast,169893,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Budget,117600,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Actual,118848,AUD,1248
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Forecast,116330,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Budget,735000,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Actual,726874,AUD,-8126
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Forecast,748390,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Budget,568400,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Actual,568963,AUD,563
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Forecast,557253,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Budget,166600,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Actual,169920,AUD,3320
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Forecast,164922,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Budget,117600,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Actual,114728,AUD,-2872
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Forecast,118417,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Budget,735000,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Actual,749159,AUD,14159
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Forecast,722535,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Budget,568400,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Actual,583112,AUD,14712
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Forecast,567867,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Budget,166600,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Actual,165136,AUD,-1464
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Forecast,169228,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Budget,117600,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Actual,115971,AUD,-1629
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Forecast,119703,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Budget,735000,AUD,
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Actual,743075,AUD,8075
+BU-E,Eastern Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Forecast,747052,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Budget,568400,AUD,
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Actual,568366,AUD,-34
+BU-E,Eastern Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Forecast,561572,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Budget,166600,AUD,
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Actual,168953,AUD,2353
+BU-E,Eastern Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Forecast,169084,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Budget,117600,AUD,
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Actual,115531,AUD,-2069
+BU-E,Eastern Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Forecast,116202,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Budget,787500,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Actual,775673,AUD,-11827
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-01-01,FY2026,7,Forecast,791236,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Budget,609000,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Actual,596430,AUD,-12570
+BU-W,Western Region,K2,Cost,Total Cost,2026-01-01,FY2026,7,Forecast,599419,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Budget,178500,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Actual,183000,AUD,4500
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-01-01,FY2026,7,Forecast,179755,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Budget,126000,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Actual,127235,AUD,1235
+BU-W,Western Region,K4,Profitability,EBITDA,2026-01-01,FY2026,7,Forecast,126574,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Budget,787500,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Actual,799986,AUD,12486
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-02-01,FY2026,8,Forecast,788806,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Budget,609000,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Actual,592274,AUD,-16726
+BU-W,Western Region,K2,Cost,Total Cost,2026-02-01,FY2026,8,Forecast,608569,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Budget,178500,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Actual,179792,AUD,1292
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-02-01,FY2026,8,Forecast,178445,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Budget,126000,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Actual,129669,AUD,3669
+BU-W,Western Region,K4,Profitability,EBITDA,2026-02-01,FY2026,8,Forecast,128001,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Budget,787500,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Actual,804924,AUD,17424
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-03-01,FY2026,9,Forecast,787210,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Budget,609000,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Actual,626700,AUD,17700
+BU-W,Western Region,K2,Cost,Total Cost,2026-03-01,FY2026,9,Forecast,619134,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Budget,178500,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Actual,176147,AUD,-2353
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-03-01,FY2026,9,Forecast,176516,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Budget,126000,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Actual,126580,AUD,580
+BU-W,Western Region,K4,Profitability,EBITDA,2026-03-01,FY2026,9,Forecast,123753,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Budget,787500,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Actual,801641,AUD,14141
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-04-01,FY2026,10,Forecast,786817,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Budget,609000,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Actual,610490,AUD,1490
+BU-W,Western Region,K2,Cost,Total Cost,2026-04-01,FY2026,10,Forecast,609060,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Budget,178500,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Actual,177362,AUD,-1138
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-04-01,FY2026,10,Forecast,179830,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Budget,126000,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Actual,123541,AUD,-2459
+BU-W,Western Region,K4,Profitability,EBITDA,2026-04-01,FY2026,10,Forecast,128402,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Budget,787500,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Actual,796867,AUD,9367
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-05-01,FY2026,11,Forecast,786242,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Budget,609000,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Actual,615914,AUD,6914
+BU-W,Western Region,K2,Cost,Total Cost,2026-05-01,FY2026,11,Forecast,597108,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Budget,178500,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Actual,175402,AUD,-3098
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-05-01,FY2026,11,Forecast,179078,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Budget,126000,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Actual,124680,AUD,-1320
+BU-W,Western Region,K4,Profitability,EBITDA,2026-05-01,FY2026,11,Forecast,126568,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Budget,787500,AUD,
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Actual,776146,AUD,-11354
+BU-W,Western Region,K1,Revenue,Total Revenue,2026-06-01,FY2026,12,Forecast,789030,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Budget,609000,AUD,
+BU-W,Western Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Actual,599395,AUD,-9605
+BU-W,Western Region,K2,Cost,Total Cost,2026-06-01,FY2026,12,Forecast,608302,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Budget,178500,AUD,
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Actual,179711,AUD,1211
+BU-W,Western Region,K3,Profitability,Gross Margin,2026-06-01,FY2026,12,Forecast,177543,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Budget,126000,AUD,
+BU-W,Western Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Actual,125991,AUD,-9
+BU-W,Western Region,K4,Profitability,EBITDA,2026-06-01,FY2026,12,Forecast,124541,AUD,

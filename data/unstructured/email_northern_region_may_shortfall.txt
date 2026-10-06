@@ -1,0 +1,19 @@
+From: James Fletcher <j.fletcher@company.com>
+To: Finance Leadership <finance-lead@company.com>
+Cc: FP&A Team <fpa@company.com>
+Date: 4 June 2026
+Subject: Northern Region May revenue shortfall explanation
+
+Northern Region's May revenue came in about 35% below budget for cost centre CC-1010.
+
+Root cause: our largest Northern account, Customer-482, pushed their contract renewal
+from May into July - a timing decision tied to their budget cycle, not a loss. Two
+mid-size deals forecast to close in May also slipped to early Q3.
+
+Impact: about $310k of expected May revenue moved out of the quarter. Cost lines were
+on plan.
+
+Outlook: pipeline intact, Customer-482 renewal now contracted for July, recovery
+expected in Q3. No structural concern.
+
+James

@@ -1,0 +1,12 @@
+From: Priya Kaur <p.kaur@company.com>
+To: FP&A Team <fpa@company.com>
+Date: 2 June 2026
+Subject: May close variance flags
+
+Confirming the only material revenue variance this month is Northern Region.
+Southern, Eastern, and Western all within tolerance on revenue.
+
+Northern's issue is the Customer-482 renewal timing James flagged - purely phasing.
+Board pack should note this as a timing variance, recoverable in Q3, not a demand problem.
+
+Priya
